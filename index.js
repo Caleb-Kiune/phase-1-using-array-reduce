@@ -4,3 +4,4 @@ const totalBatteries = batteryBatches.reduce((accumulator, currentValue) => {
   return accumulator + currentValue;
 }, 0);
 
+
